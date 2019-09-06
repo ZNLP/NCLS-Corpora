@@ -1,0 +1,13 @@
+{
+    "vocab": [
+        "/path/to/source.vocab",
+        "/path/to/target.vocab"
+    ],
+    "model_path": "/path/to/checkpoint",
+    "input": "/path/to/test.input",
+    "output": "/path/to/save/output",
+    "min_length": 25,
+    "beam_size": 4,
+    "batch_size": 3000,
+    "tf": false
+}

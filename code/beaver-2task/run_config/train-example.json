@@ -1,0 +1,29 @@
+{
+    "train": [
+        "/path/to/train.source",
+        "/path/to/train.target.ms",
+        "/path/to/train.target.cls"
+    ],
+    "valid": [
+        "/path/to/valid.source",
+        "/path/to/valid.target.ms",
+        "/path/to/valid.target.cls"
+    ],
+    "vocab": [
+        "/path/to/source.vocab",
+        "/path/to/target.vocab"
+    ],
+    "layers": 6,
+    "heads": 8,
+    "hidden_size": 512,
+    "ff_size": 2048,
+    "model_path": "/path/to/dir",
+    "batch_size": 2048,
+    "grad_accum": 2,
+    "report_every": 100,
+    "save_every": 5000,
+    "warm_up": 16000,
+    "tf": true,
+    "share_cn_embedding": true,
+    "max_to_keep": 50
+}

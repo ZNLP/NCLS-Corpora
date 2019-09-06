@@ -1,0 +1,31 @@
+{
+    "train": [
+        "/path/to/train.MT.source.language1",
+        "/path/to/train.MT.target.language2",
+        "/path/to/train.CLS.source.language1",
+        "/path/to/train.CLS.target.language2"
+    ],
+    "valid": [
+        "/path/to/valid.MT.source.language1",
+        "/path/to/valid.MT.target.language2",
+        "/path/to/valid.CLS.source.language1",
+        "/path/to/valid.CLS.target.language2"
+    ],
+    "vocab": [
+        "/path/to/source.vocab",
+        "/path/to/target.vocab"
+    ],
+    "layers": 6,
+    "heads": 8,
+    "hidden_size": 512,
+    "ff_size": 2048,
+    "model_path": "/path/to/dir",
+    "batch_size": 2048,
+    "grad_accum": 2,
+    "report_every": 100,
+    "save_every": 5000,
+    "warm_up": 16000,
+    "tf": true,
+    "share_cn_embedding": true,
+    "max_to_keep": 50
+}

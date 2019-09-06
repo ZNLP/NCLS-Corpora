@@ -1,0 +1,19 @@
+{
+    "input": [
+        "/path/to/test.MT.source.language1",
+        "/path/to/test.CLS.source.language1"
+    ],
+    "vocab": [
+        "/path/to/source.vocab",
+        "/path/to/target.vocab"
+    ],
+    "model_path": "/path/to/checkpoint",
+    "mono": false,
+    "min_length": 2,
+    "batch_size": 2000,
+    "tf": false,
+    "output": [
+        "output_task1.txt",
+        "output_task2.txt"
+    ]
+}

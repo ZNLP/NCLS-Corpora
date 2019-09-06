@@ -1,0 +1,25 @@
+{
+    "train": [
+        "/path/to/train.source",
+        "/path/to/train.target"
+    ],
+    "valid": [
+        "/path/to/valid.source",
+        "/path/to/valid.target"
+    ],
+    "vocab": [
+        "/path/to/source.vocab",
+        "/path/to/target.vocab"
+    ],
+    "model_path": "/path/to/dir",
+    "layers": 6,
+    "heads": 8,
+    "hidden_size": 512,
+    "ff_size": 2048,
+    "batch_size": 4096,
+    "warm_up": 16000,
+    "report_every": 100,
+    "save_every": 5000,
+    "max_to_keep": 50,
+    "tf": true
+}
