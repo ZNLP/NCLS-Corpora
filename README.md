@@ -1,4 +1,4 @@
-# Datasets for our EMNLP-IJCNLP2019 paper "NCLS:Neural Cross-Lingual Summarization"
+# Datasets for Cross-Lingual Summarization
 
 We construct two datasets for cross-lingual summarization here: *ZH2ENSUM* and *EN2ZHSUM*. You can download [here]().
 
