@@ -16,3 +16,6 @@ publisher = {Association for Computational Linguistics},
 
 ## Contact
 If you have any question, please feel free to contact us by sending an email to {junnan.zhu@nlpr.ia.ac.cn, yzhou@nlpr.ia.ac.cn, jjzhang@nlpr.ia.ac.cn, cqzong@nlpr.ia.ac.cn}.
+
+## Copyright
+The copyright of this dataset belongs to the authors, and the dataset is only used for research purposes. Display, reproduction, transmission, distribution or publication of this dataset is prohibited.
