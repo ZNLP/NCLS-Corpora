@@ -1,8 +1,9 @@
 # Datasets for Cross-Lingual Summarization
 
-We have constructed two datasets for cross-lingual summarization: *ZH2ENSUM* and *EN2ZHSUM*. You can download [here]().
+We have constructed two datasets for cross-lingual summarization: *ZH2ENSUM* and *EN2ZHSUM*. You can download [here](https://drive.google.com/drive/folders/1PaZ3kkmP9HRwR09XowvcPyT5wjtmVBsd?usp=sharing).
 
-If you found this is helpful to you, please cite this paper:
+## Citation
+If you found this is helpful for you, please cite this paper:
 ```
 @InProceedings{Zhu-NCLS,
 author    = {Zhu, Junnan  and  Wang, Qian and Wang, Yining and Zhou, Yu and Zhang, Jiajun and Wang, Shaonan and Zong, Chengqing},
@@ -12,3 +13,6 @@ year      = {2019},
 publisher = {Association for Computational Linguistics},
 }
 ```
+
+## Contact
+If you have any question, please feel free to contact us by sending an email to {junnan.zhu@nlpr.ia.ac.cn, yzhou@nlpr.ia.ac.cn, jjzhang@nlpr.ia.ac.cn, cqzong@nlpr.ia.ac.cn}.
