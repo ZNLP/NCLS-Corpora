@@ -5,12 +5,17 @@ We have constructed two datasets for cross-lingual summarization: *ZH2ENSUM* and
 ## Citation
 We would appreciate your citation if you find this is beneficial.
 ```
-@InProceedings{Zhu-NCLS,
-author    = {Zhu, Junnan  and  Wang, Qian and Wang, Yining and Zhou, Yu and Zhang, Jiajun and Wang, Shaonan and Zong, Chengqing},
-title     = {NCLS: Neural Cross-Lingual Summarization},
-booktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},
-year      = {2019},
-publisher = {Association for Computational Linguistics},
+@inproceedings{zhu-etal-2019-ncls,
+    title = "{NCLS}: Neural Cross-Lingual Summarization",
+    author = "Zhu, Junnan  and Wang, Qian  and Wang, Yining  and Zhou, Yu and Zhang, Jiajun  and Wang, Shaonan  and Zong, Chengqing",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/D19-1302",
+    doi = "10.18653/v1/D19-1302",
+    pages = "3045--3055",
 }
 ```
 
