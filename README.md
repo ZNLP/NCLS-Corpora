@@ -1,6 +1,6 @@
 # Datasets for Cross-Lingual Summarization
 
-We have constructed two datasets for cross-lingual summarization: *ZH2ENSUM* and *EN2ZHSUM*. You can download [here](https://drive.google.com/drive/folders/1PaZ3kkmP9HRwR09XowvcPyT5wjtmVBsd?usp=sharing).
+We have constructed two datasets for cross-lingual summarization: *ZH2ENSUM* and *EN2ZHSUM*. You can download [here](https://drive.google.com/file/d/1GZpKkHnTH_1Wxiti0BrrxPm18y9rTQRL/view?usp=sharing).
 
 ## Citation
 We would appreciate your citation if you find this is beneficial.
